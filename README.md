@@ -5,3 +5,7 @@ Development environment for zig on Docker/Docker-Compose.
 - `$ docker compose build`
 - `$ docker compose run zig bash`
 - `# zig run main.zig`
+
+## Ref
+- https://ziglang.org/
+- https://ziglearn.org/chapter-0/
